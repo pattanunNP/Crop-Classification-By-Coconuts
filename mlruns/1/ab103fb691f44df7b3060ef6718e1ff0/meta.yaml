@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/ab103fb691f44df7b3060ef6718e1ff0/artifacts
+end_time: 1655654763148
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ab103fb691f44df7b3060ef6718e1ff0
+run_uuid: ab103fb691f44df7b3060ef6718e1ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655654626763
+status: 3
+tags: []
+user_id: namirinz

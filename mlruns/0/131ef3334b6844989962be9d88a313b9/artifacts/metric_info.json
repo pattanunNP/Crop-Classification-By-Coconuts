@@ -1,0 +1,8 @@
+{
+  "XGBClassifier_score_X_test_scale": "XGBClassifier.score(X=X_test_scale, y=y_test)",
+  "accuracy_score-2_X_test_scale": "accuracy_score(y_true=y_test, y_pred=y_pred)",
+  "accuracy_score_X_test_scale": "accuracy_score(y_true=y_test, y_pred=<ndarray>)",
+  "f1_score_X_test_scale": "f1_score(y_true=y_test, y_pred=y_pred, average='weighted')",
+  "precision_score_X_test_scale": "precision_score(y_true=y_test, y_pred=y_pred, average='weighted')",
+  "recall_score_X_test_scale": "recall_score(y_true=y_test, y_pred=y_pred, average='weighted')"
+}
