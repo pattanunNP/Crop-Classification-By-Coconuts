@@ -1,0 +1,6 @@
+numpy
+mlflow
+geopandas
+scikit-learn
+rasterio
+gdown
